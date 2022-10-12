@@ -1,7 +1,6 @@
-title: Minimal theme
-site.logo: false
- title: Fricks Website
+title: Fricks Website
 description: Info about John Fricks
+site.logo: false
 show_downloads: false
 site.github.is_user_page: false
 google_analytics:
