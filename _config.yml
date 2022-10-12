@@ -1,9 +1,9 @@
 title: Minimal theme
 site.logo: false
+site.github.is_project_page: false
+site.github.is_user_page: false
  title: Fricks Website
 description: Info about John Fricks
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-site.github.is_project_page: false
-site.github.is_user_page: false
