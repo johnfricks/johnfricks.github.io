@@ -1,7 +1,7 @@
 title: Fricks Website
 description: Info about John Fricks
 site.logo: false
-site.github.is_user_page: false
+github.is_user_page: false
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
