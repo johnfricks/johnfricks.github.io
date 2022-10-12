@@ -7,5 +7,3 @@ theme: jekyll-theme-minimal
 site.logo: false
 title: Fricks Website
 site.github.is_project_page: false
-site.github.is_user_page: false
-site.show_downloads: false
