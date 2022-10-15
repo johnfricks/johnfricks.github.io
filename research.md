@@ -7,6 +7,8 @@ My research covers a variety of biological systems and mathematical tools.  A un
 
 * **[Molecular Motors](./motors.html)**
 
+* **[Infectious Disease Dynamics](./disease.html)**
+
 * **[Stochastic Diffusion in Nanoscale Biology](./diffusion.html)**
 
 [back](./)
