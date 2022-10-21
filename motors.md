@@ -10,7 +10,13 @@ My research has focused on creating more biologically relevant models which inco
 
 More recently, I have been working with an inter-university team  ( [William Hancock](http://www.bioe.psu.edu/labs/Hancock-Lab/index.html), [Peter Kramer](http://homepages.rpi.edu/~kramep/), and [Scott McKinley](http://www.math.ufl.edu/~scott.mckinley/ufhome/Home.html) )  to study groups of molecular motors, both kinsein and dynein, pulling a single cargo.  Kinesin moves toward the plus end of a microtubule, while dynein moves towards the negative end.  Knocking down one should cause increase movement in the opposite direction; however, this does not seem to happen within a cellular environment.  We are focused on understanding these surprising contradictions with the hope of better understanding the regulation of motor-cargo complexes in intracellular transport.  This team is currently being supported by the NIH.
 
-* **[Estimating Velocity for Processive Motor Proteins with Random Detachment](http://dx.doi.org/10.1007/s13253-013-0131-4)**  
+* **[Load‐dependent detachment kinetics plays a key role in bidirectional cargo transport by kinesin and dynein.](https://doi.org/10.1111/tra.12639)**
+w KG Ohashi, L Han, B Mentley, J Wang, WO Hancock
+
+* **[Analysis of single particle diffusion with transient binding using particle filtering.](https://doi.org/10.1016/j.jtbi.2016.04.013)**
+w Jason Bernstein
+
+* **[Estimating Velocity for Processive Motor Proteins with Random Detachment.](http://dx.doi.org/10.1007/s13253-013-0131-4)**  
  w [John Hughes](http://www.biostat.umn.edu/~johnh/), Shankar Shastry, and [William Hancock](http://www.bioe.psu.edu/labs/Hancock-Lab/index.html)
 * **[Asymptotic Analysis of Microtubule-Based Transport by Multiple Identical Molecular Motors](http://arxiv.org/abs/1111.0684)**    
 w [Scott McKinley](http://www.math.ufl.edu/~scott.mckinley/ufhome/Home.html), Avanti Athreya, and  [Peter Kramer](http://homepages.rpi.edu/~kramep/) 
