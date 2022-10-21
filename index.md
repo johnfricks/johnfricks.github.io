@@ -14,6 +14,5 @@ Arizona State University <br>
 P.O. Box 871804 <br>
 Tempe, AZ 85287-1804 <br>
 
-[google scholar](http://scholar.google.com/citations?hl=en&user=3qlJmaUAAAAJ) 
 
 
