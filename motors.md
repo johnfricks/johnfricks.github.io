@@ -27,22 +27,22 @@ w Jason Bernstein
  w [John Hughes](http://www.biostat.umn.edu/~johnh/), Shankar Shastry, and [William Hancock](http://www.bioe.psu.edu/labs/Hancock-Lab/index.html)
 * **[Asymptotic Analysis of Microtubule-Based Transport by Multiple Identical Molecular Motors](http://arxiv.org/abs/1111.0684)**    
 w [Scott McKinley](http://www.math.ufl.edu/~scott.mckinley/ufhome/Home.html), Avanti Athreya, and  [Peter Kramer](http://homepages.rpi.edu/~kramep/) 
-* **[Kinesins with Extended Neck Linkers: A Chemomechanical Model for Variable-Length Stepping](@root_path/content/docs/varistep.pdf)**  
+* **[Kinesins with Extended Neck Linkers: A Chemomechanical Model for Variable-Length Stepping](./docs/varistep.pdf)**  
  w [John Hughes](http://www.biostat.umn.edu/~johnh/) and [William Hancock](http://www.bioe.psu.edu/labs/Hancock-Lab/index.html)
-* **[A Matrix Computational Approach to Kinesin Neck Linker Extension](@root_path/content/docs/renewal.8.10.10.pdf)**  
+* **[A Matrix Computational Approach to Kinesin Neck Linker Extension](./docs/renewal.8.10.10.pdf)**  
 with [John Hughes](http://www.biostat.umn.edu/~johnh/) and [William Hancock](http://www.bioe.psu.edu/labs/Hancock-Lab/index.html)
 * **[Monte Carlo Analysis of Neck Linker Extension in Kinesin Molecular Motors](http://dx.doi.org/10.1371/journal.pcbi.1000980)**  
 w Matthew Kutys and [William Hancock](http://www.bioe.psu.edu/labs/Hancock-Lab/index.html)
-* **[A Mixture Model for Quantum Dot Images of Kinesin Motor Assays](@root_path/content/docs/qdot.pdf)**  
+* **[A Mixture Model for Quantum Dot Images of Kinesin Motor Assays](./docs/qdot.pdf)**  
 w [John Hughes](http://www.biostat.umn.edu/~johnh/)
-* **[Likelihood Inference For Particle Location In Fluorescence Microscopy](@root_path/content/docs/fiona.pdf)**  
+* **[Likelihood Inference For Particle Location In Fluorescence Microscopy](./docs/fiona.pdf)**  
 w [John Hughes](http://www.biostat.umn.edu/~johnh/) and [William Hancock](http://www.bioe.psu.edu/labs/Hancock-Lab/index.html)
-* **[Molecular Motors, Brownian Ratchets, and Reflected Diffusions](@root_path/content/docs/ratchetsmotors.pdf)**  
+* **[Molecular Motors, Brownian Ratchets, and Reflected Diffusions](./docs/ratchetsmotors.pdf)**  
 w [Amarjit Budhiraja](http://www.stat.unc.edu/faculty/budhiraja.html)
 * **[A numerical algorithm for investigating the role of the motor-cargo linkage in molecular motor driven transport](http://dx.doi.org/10.1016/j.jtbi.2005.07.010)**  
-w [Timothy Elston](http://elston.med.unc.edu) and [Hongyun Wang](http://www.soe.ucsc.edu/~hongwang/)  
-[Matlab code for the Fricks, Wang, and Elston paper.](@root_path/content/docs/wangelstoncode)  
-* **[Biomolecular Motors and Diffusion Ratchets (PhD thesis)](@root_path/content/docs/dissertation.pdf)**
+w Timothy Elston and Hongyun Wang
+[Matlab code for the Fricks, Wang, and Elston paper.](./docs/wangelstoncode)  
+* **[Biomolecular Motors and Diffusion Ratchets (PhD thesis)](./docs/dissertation.pdf)**
 
 		
 			
