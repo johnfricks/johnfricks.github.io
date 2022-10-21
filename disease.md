@@ -10,10 +10,8 @@ layout: default
  
 * **[Estimation and prediction for a mechanistic model of measles transmission using particle filtering and maximum likelihood estimation.](https://doi.org/10.1002/sim.8290)**
 w Kirsten E Eilertson, Matthew J Ferrari
- 
  * **[Stochastic Population Models](https://www.sciencedirect.com/science/article/pii/S0169716118300270)** 
  w Ephraim Hanks
-
 * **[An attraction-repulsion point process model for respiratory syncytial virus infections](http://arxiv.org/abs/1401.5506)**
 w Joshua Goldstein, Murali Haran, Ivan Simeonov, Francesca Chiaromonte
 * **[Assessment of the 2010 global measles mortality reduction goal: results from a model of surveillance data](http://dx.doi.org/10.1016/S0140-6736(12)60522-4)** 
