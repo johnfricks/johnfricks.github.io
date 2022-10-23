@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Infectious Disease Dynamics
+## Population Models and Disease Dynamics
 
  With Matthew Ferrari (PSU Biology) and Kirsten Eilertson (PSU Statistics), we are developing dynamic models for country wide dynamics of measles to facilitate immunization programs at the [WHO](http://www.who.int) and [GAVI](http://www.gavi.org).  For the WHO, we developed statistical methods to fit these dynamic models in order to predict and confirm case numbers for particular countries. With GAVI, we are currently creating predictive models to more efficiently use scarce vaccination resources.  Chen Shi, a graduate student in Entomology, also worked on this project and is now a post-doc at [NIMBioS](http://www.nimbios.org).
 
@@ -16,6 +16,12 @@ w Joshua Goldstein, Murali Haran, Ivan Simeonov, Francesca Chiaromonte
 w Emily Simons, Matthew Ferrari,  Kathleen Wannemuehler, Abhijeet Anand, Marta Gacic-Dobo, Tony Burton, Peter Strebel
 * **[Exploratory Spatial Analysis of in vitro Respiratory Syncytial Virus co-infections](http://dx.doi.org/10.3390/v2122782)**  
  w Ivan Simeonov, Xiaoyan Gong, Oekyung Kim, Mary Poss, and Francesca Chiaromonte
-* **[Tracking Measles Infection through Non-linear State Space Models](@root_path/content/docs/measles.pdf)**  
+* **[Tracking Measles Infection through Non-linear State Space Models](./docs/measles.pdf)**  
 w Matthew Ferrari and Chen Shi
+* **[A Stochastic Richardson's Arms Race Model](./docs/swift.pdf)**  
+w Randall Swift
+* **[A Stochastic Richardson's Arms Race Model](./docs/AStochasticAnalogtotheRichardsonsArmsRaceModel.pdf)**  
+Master's Thesis
+
+
 

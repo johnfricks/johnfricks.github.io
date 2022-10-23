@@ -15,7 +15,7 @@ w Jason Bernstein
 w [Gustavo Didier](http://www.tulane.edu/~gdidier/)  
 * **[Statistical Challenges in Microrheology](http://arxiv.org/abs/1201.5984)** 
 w [Gustavo Didier](http://www.tulane.edu/~gdidier/), [Scott A. McKinley](http://www.math.ufl.edu/~scott.mckinley/ufhome/Home.html), and [David B. Hill](http://www.unc.edu/~dbhill/)
-* **[Time-domain Methods for Diffusive Transport in Soft Matter](@root_path/content/docs/gle.pdf)**  
+* **[Time-domain Methods for Diffusive Transport in Soft Matter](./docs/gle.pdf)**  
 w [Lingxing Yao](http://math.umn.edu/~lyao/), [Timothy Elston](http://elston.med.unc.edu), and [Gregory Forest](http://www.amath.unc.edu/Faculty/forest/)
 
 
