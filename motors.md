@@ -24,21 +24,21 @@ w KG Ohashi, L Han, B Mentley, J Wang, WO Hancock
 * **[Analysis of single particle diffusion with transient binding using particle filtering.](https://doi.org/10.1016/j.jtbi.2016.04.013)**
 w Jason Bernstein
 * **[Estimating Velocity for Processive Motor Proteins with Random Detachment.](http://dx.doi.org/10.1007/s13253-013-0131-4)**  
- w [John Hughes](http://www.biostat.umn.edu/~johnh/), Shankar Shastry, and [William Hancock](http://www.bioe.psu.edu/labs/Hancock-Lab/index.html)
+ w John Hughes, Shankar Shastry, and William Hancock
 * **[Asymptotic Analysis of Microtubule-Based Transport by Multiple Identical Molecular Motors](http://arxiv.org/abs/1111.0684)**    
-w [Scott McKinley](http://www.math.ufl.edu/~scott.mckinley/ufhome/Home.html), Avanti Athreya, and  [Peter Kramer](http://homepages.rpi.edu/~kramep/) 
+w Scott McKinley, Avanti Athreya, and  Peter Kramer
 * **[Kinesins with Extended Neck Linkers: A Chemomechanical Model for Variable-Length Stepping](./docs/varistep.pdf)**  
- w [John Hughes](http://www.biostat.umn.edu/~johnh/) and [William Hancock](http://www.bioe.psu.edu/labs/Hancock-Lab/index.html)
+ w John Hughes and William Hancock
 * **[A Matrix Computational Approach to Kinesin Neck Linker Extension](./docs/renewal.8.10.10.pdf)**  
-with [John Hughes](http://www.biostat.umn.edu/~johnh/) and [William Hancock](http://www.bioe.psu.edu/labs/Hancock-Lab/index.html)
+with John Hughes and William Hancock
 * **[Monte Carlo Analysis of Neck Linker Extension in Kinesin Molecular Motors](http://dx.doi.org/10.1371/journal.pcbi.1000980)**  
-w Matthew Kutys and [William Hancock](http://www.bioe.psu.edu/labs/Hancock-Lab/index.html)
+w Matthew Kutys and William Hancock
 * **[A Mixture Model for Quantum Dot Images of Kinesin Motor Assays](./docs/qdot.pdf)**  
-w [John Hughes](http://www.biostat.umn.edu/~johnh/)
+w John Hughes
 * **[Likelihood Inference For Particle Location In Fluorescence Microscopy](./docs/fiona.pdf)**  
-w [John Hughes](http://www.biostat.umn.edu/~johnh/) and [William Hancock](http://www.bioe.psu.edu/labs/Hancock-Lab/index.html)
+w John Hughes and William Hancock
 * **[Molecular Motors, Brownian Ratchets, and Reflected Diffusions](./docs/ratchetsmotors.pdf)**  
-w [Amarjit Budhiraja](http://www.stat.unc.edu/faculty/budhiraja.html)
+w Amarjit Budhiraja
 * **[A numerical algorithm for investigating the role of the motor-cargo linkage in molecular motor driven transport](http://dx.doi.org/10.1016/j.jtbi.2005.07.010)**  
 w Timothy Elston and Hongyun Wang
 [Matlab code for the Fricks, Wang, and Elston paper.](./docs/wangelstoncode)  

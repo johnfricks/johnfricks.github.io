@@ -12,10 +12,10 @@ My research has focused on finding techniques to efficiently simulate stochastic
 * **[Analysis of single particle diffusion with transient binding using particle filtering](http://dx.doi.org/10.1016/j.jtbi.2016.04.013)**  
 w Jason Bernstein
 * **[On the Wavelet-based Simulation of Anomalous Diffusion](http://arxiv.org/abs/1202.4437)**  
-w [Gustavo Didier](http://www.tulane.edu/~gdidier/)  
+w Gustavo Didier
 * **[Statistical Challenges in Microrheology](http://arxiv.org/abs/1201.5984)** 
-w [Gustavo Didier](http://www.tulane.edu/~gdidier/), [Scott A. McKinley](http://www.math.ufl.edu/~scott.mckinley/ufhome/Home.html), and [David B. Hill](http://www.unc.edu/~dbhill/)
+w Gustavo Didier, Scott A. McKinley, and David B. Hill
 * **[Time-domain Methods for Diffusive Transport in Soft Matter](./docs/gle.pdf)**  
-w [Lingxing Yao](http://math.umn.edu/~lyao/), [Timothy Elston](http://elston.med.unc.edu), and [Gregory Forest](http://www.amath.unc.edu/Faculty/forest/)
+w Lingxing Yao, Timothy Elston, and Gregory Forest
 
 
