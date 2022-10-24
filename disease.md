@@ -3,9 +3,12 @@ layout: default
 ---
 ## Population Models and Disease Dynamics
 
- With Matthew Ferrari (PSU Biology) and Kirsten Eilertson (PSU Statistics), we are developing dynamic models for country wide dynamics of measles to facilitate immunization programs at the [WHO](http://www.who.int) and [GAVI](http://www.gavi.org).  For the WHO, we developed statistical methods to fit these dynamic models in order to predict and confirm case numbers for particular countries. With GAVI, we are currently creating predictive models to more efficiently use scarce vaccination resources.  Chen Shi, a graduate student in Entomology, also worked on this project and is now a post-doc at [NIMBioS](http://www.nimbios.org).
+ With Matthew Ferrari (PSU Biology) and Kirsten Eilertson (PSU Statistics), we are developed dynamic models for country wide dynamics of measles to facilitate immunization programs at the [WHO](http://www.who.int) and [GAVI](http://www.gavi.org).  For the WHO, we developed statistical methods to fit these dynamic models in order to predict and confirm case numbers for particular countries. With GAVI, we created predictive models to more efficiently use scarce vaccination resources.  Chen Shi, a graduate student in Entomology, also worked on an earlier iteration of this project.  I am currently working with a recently graduate from ASU on updating this measles work with a Bayesian approach, and we have been working on methodology for disease spread from a reservoir when disease incidence is low.
 
- With Mary Poss (PSU Biology) and several other collaborators, we have worked to model an in vitro system of epithelial cells which are infected with Respiratory Syncytial Virus (RSV).  I have worked with Francesca Chiaromonte and Ivan Simeonov (a graduate student) of the Statistics Department to develop spatial point process models to explore the dynamics of this system to understand the spatial interactions between cells which are infected with different strains of a virus.
+ With Mary Poss (PSU Biology) and several other collaborators, we worked to model an in vitro system of epithelial cells which are infected with Respiratory Syncytial Virus (RSV).  We developed spatial point process models to explore the dynamics of this system to understand the spatial interactions between cells which are infected with different strains of a virus.
+ 
+
+ 
 * **[Estimation and prediction for a mechanistic model of measles transmission using particle filtering and maximum likelihood estimation.](https://doi.org/10.1002/sim.8290)**
 w Kirsten E Eilertson, Matthew J Ferrari
  * **[Stochastic Population Models](https://www.sciencedirect.com/science/article/pii/S0169716118300270)** 
