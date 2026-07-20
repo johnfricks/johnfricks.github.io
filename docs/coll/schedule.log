@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.17)  6 APR 2026 21:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.17)  20 JUL 2026 03:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -39,37 +39,42 @@ LaTeX Font Info:    ... okay on input line 2.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 7.
+(Font)              <10.95> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 7.
+(Font)              <8> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 7.
+(Font)              <6> on input line 14.
 
-Overfull \hbox (66.59615pt too wide) in paragraph at lines 7--41
+Overfull \hbox (67.37172pt too wide) in paragraph at lines 14--51
  [] 
  []
 
 
-Overfull \hbox (103.88702pt too wide) in paragraph at lines 49--86
+Overfull \hbox (66.59615pt too wide) in paragraph at lines 60--94
+ [] 
+ []
+
+
+Overfull \hbox (103.88702pt too wide) in paragraph at lines 102--139
  [] 
  []
 
 [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] (./schedule.aux) ) 
+[2] [3] (./schedule.aux) ) 
 Here is how much of TeX's memory you used:
- 223 strings out of 493054
- 2416 string characters out of 6134759
- 69374 words of memory out of 5000000
- 3826 multiletter control sequences out of 15000+600000
+ 224 strings out of 493054
+ 2424 string characters out of 6134759
+ 77374 words of memory out of 5000000
+ 3827 multiletter control sequences out of 15000+600000
  6379 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  21i,8n,19p,147b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr10.pfb>
-Output written on schedule.pdf (2 pages, 29408 bytes).
+</usr/local/texlive/2015/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb>
+Output written on schedule.pdf (3 pages, 31299 bytes).
 PDF statistics:
- 15 PDF objects out of 1000 (max. 8388607)
- 9 compressed objects within 1 object stream
+ 18 PDF objects out of 1000 (max. 8388607)
+ 11 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
